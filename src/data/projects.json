@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Marvel Search Engine",
+    "imageSrc": "projects/Marvel Search Engine.png",
+    "description": "This Project was made to test our knowledge on API's and JavaScript!.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://andresrey01.github.io/group-project1/",
+    "source": "https://github.com/AndresRey01/group-project1"
+  },
+  {
+    "title": "Bictorfy",
+    "imageSrc": "projects/Bictorfy.png",
+    "description": "This project was to test our knowledge on JQuery, Handlebars, JavaScript and Node!",
+    "skills": ["HandleBars", "Express", "Node", "MySQL"],
+    "demo": "",
+    "source": "https://github.com/gracecatk/bictorfy"
+  }
+]
